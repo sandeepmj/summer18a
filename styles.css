@@ -35,6 +35,6 @@ html, body {
   .container {
     max-width: 50%;
     margin: 0 auto;
-    padding: 0 50% 0 50%;
+    /* padding: 0 50% 0 50%; */
   }
 }
