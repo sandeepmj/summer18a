@@ -17,7 +17,7 @@ html, body {
 }
 
 .container {
-  max-width: 90%
+  max-width: 90%;
 }
 
 /* Tablet/Desktop overrides */
@@ -30,5 +30,7 @@ html, body {
   /* Any adjustments for desktop and larger go here. Note these styles will be applied to anything 729px or larger -- so desktop */
   .container {
     max-width: 50%;
+    margin: 0 auto;
+    padding: 0 50% 0 50%;
   }
 }
