@@ -22,9 +22,9 @@ html, body {
 .hold{
 	padding: 20px;
 	width: 50%;
-	margin: auto;
-
+	margin: 0 auto;
 }
+
 
 
 /* Tablet/Desktop overrides */
