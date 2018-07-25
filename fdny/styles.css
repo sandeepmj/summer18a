@@ -32,7 +32,7 @@ html, body {
 
 @media(min-width: 729px) {
   /* Any adjustments for desktop and larger go here. Note these styles will be applied to anything 729px or larger -- so desktop */
-  .container {
+  .container, h1 {
     max-width: 50%;
     margin: 0 auto;
     /* padding: 0 50% 0 50%; */
